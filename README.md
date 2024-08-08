@@ -1,4 +1,4 @@
-# Data Cleaning
+# Data Cleaning on KPMG Customer Dataset
 
 I have recently started KPMG Internship . The first tasks is to analyze the major problem and the quality of the dataset have received from the firm. Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organization. They needs help with its customer and transactions data. The organization has a large dataset relating to its customers, but their team is unsure how to effectively analyze it to help optimize its marketing strategy. 
 
